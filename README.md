@@ -11,7 +11,7 @@ If you find my work helpful,you can follow me on insta: @dev_tiwari_14581
 --------------------------------------------------------------------------
 
 Devesh Tiwary,
-The CODEFREAKS Developes
+The CODEFREAKS Developers
 email: deveshtiwary19@gmail.com
 
 Feel free to contact me regarding any problem.
